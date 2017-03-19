@@ -32,8 +32,4 @@
 *.hpi           binary
 *.ico           binary
 *.jar           binary
-*.jpg           binary
-*.jpeg          binary
-*.png           binary
-*.war           binary
-*.zip           binary
+
